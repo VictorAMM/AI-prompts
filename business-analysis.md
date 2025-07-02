@@ -1,96 +1,94 @@
-# 🔍 Business Context & Strategic Analysis – Domain Agent (Phase 0)
+🔍 Business Context & Strategic Analysis – Domain Agent (Phase 0)
+Template for business-level evaluation of a feature, product idea, or system change
+Use this BEFORE technical modeling (PRD/RFC)
 
-> Template for business-level evaluation of a feature, product idea, or system change  
-> Use this BEFORE technical modeling (PRD/RFC)
+🧠 1. Business Domain Context
+Sector / Industry:
+e.g., Finance, Healthcare, Education, Legal, Retail
 
----
+Subdomain or Vertical:
+e.g., Payments, Patient Records, Contracts
 
-## 🧠 1. Business Domain Context
+Current pain point or need:
 
-- **Sector / Industry:** [e.g., Finance, Healthcare, Education, Legal, Retail]
-- **Subdomain or vertical:** [e.g., Payments, Patient Records, Contracts]
-- **Current pain point or need:**
-- **Who is impacted?**
-- **Where does this problem happen in the user journey or business process?**
+Who is impacted?:
 
----
+Where does this problem occur in the user journey or business process?:
 
-## 🎯 2. Strategic Intent
+🎯 2. Strategic Intent
+What’s the business goal behind this initiative?
 
-- **What’s the business goal behind this initiative?**
-  - [ ] Increase revenue
-  - [ ] Improve retention
-  - [ ] Reduce risk
-  - [ ] Ensure compliance
-  - [ ] Optimize cost
-  - [ ] Improve user experience
-  - [ ] Other: ___
+ Increase revenue
 
-- **Success Metrics / KPIs to improve:**
-  - [e.g., NPS, LTV, CAC, conversion rate, churn, ROI, error rate, etc.]
+ Improve retention
 
-- **What hypothesis are we testing?**
-  - *If we do X, we believe Y will improve by Z*
+ Reduce risk
 
----
+ Ensure compliance
 
-## 🔬 3. Domain-Specific Constraints
+ Optimize cost
 
-- **Are there regulatory/legal rules involved?** (Yes/No)
-  - If yes, explain:
-- **Are there ethical or social implications?**
-- **Is this constrained by technology, geography, culture, or timing?**
-- **Known benchmarks or best practices in this space:**
-  - [optional links, studies, competitors, etc.]
+ Improve user experience
 
----
+ Other: ___
 
-## ⚖️ 4. Risk Assessment
+Success Metrics / KPIs to improve:
+e.g., NPS, LTV, CAC, conversion rate, churn, ROI, error rate, time to value
 
-- **What are the risks of doing this?**
-  - [ ] Misalignment with strategy
-  - [ ] Legal/compliance risk
-  - [ ] Market risk (no demand)
-  - [ ] Operational complexity
-  - [ ] Data/Privacy issues
-  - [ ] Other:
+What hypothesis are we testing?
+If we do X, we believe Y will improve by Z.
 
-- **What are the risks of NOT doing it?**
+🔬 3. Domain-Specific Constraints
+Are there regulatory/legal rules involved? (Yes/No)
+If yes, explain:
 
----
+Are there ethical or social implications?:
 
-## 👤 5. Personas & Stakeholders
+Are there any constraints related to technology, geography, culture, or timing?:
 
-- **Primary user persona(s):**
-- **Business stakeholders involved:**
-- **Internal blockers or dependencies:**
+Known benchmarks or best practices in this space:
+Optional: include links, competitors, industry reports, case studies
 
----
+⚖️ 4. Risk Assessment
+What are the risks of doing this?
 
-## 🧩 6. Business Fit Summary
+ Misalignment with company strategy
 
-| Dimension           | Evaluation                                |
-|---------------------|--------------------------------------------|
-| Strategic Alignment | [High / Medium / Low]                      |
-| Value Potential     | [High / Medium / Low]                      |
-| Risk Level          | [Low / Medium / High]                      |
-| Urgency             | [Immediate / Q2 / Future / Exploratory]   |
-| Confidence in ROI   | [High / Medium / Low]                      |
+ Legal/compliance risk
 
----
+ Market risk (lack of demand)
 
-## ✅ 7. Recommendation
+ Operational complexity
 
-- [ ] Move forward to technical design (PRD/RFC)
-- [ ] Reassess scope or direction
-- [ ] Hold / Explore more
-- [ ] Reject – not aligned or viable
+ Data/privacy issues
 
-**Optional comments:**
-> [Insert strategic insights, analyst notes or external validations here]
-✅ Como usar:
-Copie este conteúdo para qualquer ferramenta de documentação (Markdown editor, Notion, GitHub, Obsidian etc.)
+ Other:
 
-Preencha os campos conforme o domínio (use linguagem e KPIs adequados)
+What are the risks of NOT doing it?
 
-Use a saída como input da Fase 1 (PRD/RFC)
+👤 5. Personas & Stakeholders
+Primary user persona(s):
+
+Business stakeholders involved:
+
+Internal blockers or dependencies:
+
+🧩 6. Business Fit Summary
+Dimension	Evaluation
+Strategic Alignment	High / Medium / Low
+Value Potential	High / Medium / Low
+Risk Level	Low / Medium / High
+Urgency	Immediate / Q2 / Future / Exploratory
+Confidence in ROI	High / Medium / Low
+
+✅ 7. Recommendation
+ Move forward to technical design (PRD/RFC)
+
+ Reassess scope or direction
+
+ Hold / Explore more
+
+ Reject – not aligned or viable
+
+Optional comments:
+Insert strategic insights, analyst notes, or external validations here.
